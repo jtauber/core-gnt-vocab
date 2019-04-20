@@ -18,3 +18,7 @@ See also:
 
 * https://camws.org/cpl/cplonline/files/Majorcplonline.pdf
 * http://dcc.dickinson.edu/greek-core-list
+
+For code, now see:
+
+* https://github.com/jtauber/vocabulary-tools
