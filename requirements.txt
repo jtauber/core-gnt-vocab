@@ -1,2 +1,0 @@
-PyYAML==3.11
-py-sblgnt==0.4
